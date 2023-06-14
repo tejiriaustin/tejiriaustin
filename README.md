@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejiri</h1>
 <h3 align="center">A passionate golang developer</h3>
 
-- 🔭 I’m currently working on [Inawo](https://www.inawo.com)
+- 🔭 I’m currently working on [Heroshe](https://www.heroshe.com)
 
 - 🌱 I’m currently learning **Reactjs with Typescript**
 
