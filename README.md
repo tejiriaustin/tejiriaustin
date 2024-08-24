@@ -1,5 +1,5 @@
 <h1 align="center">go func introduce(Hi there👋, Tejiri here...)error{ return nil }(me ...string)</h1>
-<h3 align="right">Welcome to a golang fanatics github profile,<br><br> Nice to meet you, please make yourself feel at home. Mi Casa es Su Casa💪<br><br><br></h3>
+<h3 align="left">Welcome to a golang fanatics github profile,<br><br>Mi Casa es Su Casa💪<br><br><br></h3>
 
 Projects: [Me](https://my-portfolio-gatsby-henna.vercel.app/)
 
