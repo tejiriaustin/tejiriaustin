@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on the world engine
 
-- 💬 Ask me about **Golang, Vue, Javascript, , PHP**
+- 💬 Ask me about **Golang, Vue, Javascript**
 
 - 📫 How to reach me **tejiriaustin123@gmail.com**
 
