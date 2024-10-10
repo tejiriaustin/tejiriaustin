@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tejiri Austin</h1>
 <p>
-<h3 align="center">A Golang Fanatic who believes Golang will save the world. </h3>
+<h3 align="center">Golang will save the world. </h3>
 </p>
 
 <hr/>
